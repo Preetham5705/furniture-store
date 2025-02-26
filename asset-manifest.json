@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/furniture-store/static/css/main.db685460.css",
+    "main.js": "/furniture-store/static/js/main.22eca161.js",
+    "static/media/interior-design-house-modern-wooden-table-chair_657883-324.jpg": "/furniture-store/static/media/interior-design-house-modern-wooden-table-chair_657883-324.d749c7d6537fb9fde33e.jpg",
+    "index.html": "/furniture-store/index.html",
+    "main.db685460.css.map": "/furniture-store/static/css/main.db685460.css.map",
+    "main.22eca161.js.map": "/furniture-store/static/js/main.22eca161.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.db685460.css",
+    "static/js/main.22eca161.js"
+  ]
+}
