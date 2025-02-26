@@ -5,13 +5,13 @@ import "swiper/css/navigation";
 import { Navigation } from "swiper/modules";
 import "./ImageSlider.css"; // Custom styles
 
-const ImageSlider = () => {
-  const images = [
-    "C:\Users\HP\Downloads\marcus-loke-nii8BZlJfOY-unsplash.jpg",
-    "C:\Users\HP\Downloads\albero-furniture-bratislava-75yyUu7BVlo-unsplash.jpg",
-    "C:\Users\HP\Downloads\unrecognizable-black-female-customer-choosing-furniture-shopping-center.jpg",
-  ];
+const images = [
+  "/images/marcus-loke-nii8BZlJfOY-unsplash.jpg",
+  "/images/albero-furniture-bratislava-75yyUu7BVlo-unsplash.jpg",
+  "/images/unrecognizable-black-female-customer-choosing-furniture-shopping-center.jpg",
+];
 
+const ImageSlider = () => {
   return (
     <Swiper navigation={true} modules={[Navigation]} className="image-slider">
       {images.map((img, index) => (
