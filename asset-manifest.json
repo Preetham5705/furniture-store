@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/furniture-store/static/css/main.8dc6b99a.css",
-    "main.js": "/furniture-store/static/js/main.22eca161.js",
+    "main.css": "/furniture-store/static/css/main.cd31a900.css",
+    "main.js": "/furniture-store/static/js/main.2ce7e542.js",
     "static/media/albero-furniture-bratislava-D3r0iKZ8YxE-unsplash.jpg": "/furniture-store/static/media/albero-furniture-bratislava-D3r0iKZ8YxE-unsplash.ec1ea17391a79888c7cd.jpg",
     "static/media/virender-singh-hE0nmTffKtM-unsplash.jpg": "/furniture-store/static/media/virender-singh-hE0nmTffKtM-unsplash.714e9f23a01a03c2b304.jpg",
     "index.html": "/furniture-store/index.html",
-    "main.8dc6b99a.css.map": "/furniture-store/static/css/main.8dc6b99a.css.map",
-    "main.22eca161.js.map": "/furniture-store/static/js/main.22eca161.js.map"
+    "main.cd31a900.css.map": "/furniture-store/static/css/main.cd31a900.css.map",
+    "main.2ce7e542.js.map": "/furniture-store/static/js/main.2ce7e542.js.map"
   },
   "entrypoints": [
-    "static/css/main.8dc6b99a.css",
-    "static/js/main.22eca161.js"
+    "static/css/main.cd31a900.css",
+    "static/js/main.2ce7e542.js"
   ]
 }
