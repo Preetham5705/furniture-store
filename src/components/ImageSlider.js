@@ -13,13 +13,15 @@ const images = [
 
 const ImageSlider = () => {
   return (
-    <Swiper navigation={true} modules={[Navigation]} className="image-slider">
-      {images.map((img, index) => (
-        <SwiperSlide key={index}>
-          <img src={img} alt={`Slide ${index + 1}`} className="slide-image" />
-        </SwiperSlide>
-      ))}
-    </Swiper>
+    <div className="slider-container">
+      <Swiper navigation={true} modules={[Navigation]} className="image-slider">
+        {images.map((img, index) => (
+          <SwiperSlide key={index}>
+            <img src={img} alt={`Slide ${index + 1}`} className="slide-image" />
+          </SwiperSlide>
+        ))}
+      </Swiper>
+    </div>
   );
 };
 
