@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/furniture-store/static/css/main.d0ade027.css",
+    "main.css": "/furniture-store/static/css/main.f8b639ae.css",
     "main.js": "/furniture-store/static/js/main.22eca161.js",
+    "static/media/albero-furniture-bratislava-D3r0iKZ8YxE-unsplash.jpg": "/furniture-store/static/media/albero-furniture-bratislava-D3r0iKZ8YxE-unsplash.ec1ea17391a79888c7cd.jpg",
     "static/media/virender-singh-hE0nmTffKtM-unsplash.jpg": "/furniture-store/static/media/virender-singh-hE0nmTffKtM-unsplash.714e9f23a01a03c2b304.jpg",
-    "static/media/interior-design-house-modern-wooden-table-chair_657883-324.jpg": "/furniture-store/static/media/interior-design-house-modern-wooden-table-chair_657883-324.d749c7d6537fb9fde33e.jpg",
     "index.html": "/furniture-store/index.html",
-    "main.d0ade027.css.map": "/furniture-store/static/css/main.d0ade027.css.map",
+    "main.f8b639ae.css.map": "/furniture-store/static/css/main.f8b639ae.css.map",
     "main.22eca161.js.map": "/furniture-store/static/js/main.22eca161.js.map"
   },
   "entrypoints": [
-    "static/css/main.d0ade027.css",
+    "static/css/main.f8b639ae.css",
     "static/js/main.22eca161.js"
   ]
 }
