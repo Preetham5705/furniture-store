@@ -1,24 +1,34 @@
 /* Ensures the slider has enough space */
 .slider-container {
-    width: 100%;
-    max-width: 900px; /* Adjust as needed */
-    margin: 0 auto;
-    padding: 20px 0;
-    display: flex;
-    justify-content: center;
-  }
-  
-  /* Swiper styling */
-  .image-slider {
-    width: 100%;
-    height: 500px; /* Adjust based on your design */
-  }
-  
-  /* Ensures images fill the slider properly */
-  .slide-image {
-    width: 100%;
-    height: 100%;
-    object-fit: cover;
-    border-radius: 10px;
-  }
-  
+  width: 100%;
+  max-width: 1000px; /* Adjust as needed */
+  margin: 0 auto;
+  padding: 20px 0;
+  display: flex;
+  justify-content: center;
+}
+
+/* Swiper styling */
+.image-slider {
+  width: 100%;
+  height: 300px; /* Adjust based on your design */
+}
+
+/* Ensures images fill the slider properly */
+.slide-image {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  border-radius: 10px;
+  transition: transform 0.3s ease-in-out; /* Smooth transition */
+}
+
+/* Hover effect: Zoom */
+.slide-image:hover {
+  transform: scale(1.05);
+}
+
+/* Auto slide transition */
+.swiper-slide {
+  transition: transform 0.8s ease-in-out;
+}
